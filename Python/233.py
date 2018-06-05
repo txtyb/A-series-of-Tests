@@ -11,8 +11,5 @@ if un=="yxp":
         print("sb"+"yxp"+"i")
 
 end=time.clock()
-
-print("%s")%(end-start)
-
-
-
+time=end-start
+print('%.8s'%time)
