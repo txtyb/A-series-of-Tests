@@ -43,4 +43,4 @@ for perpath1 in paths:
 shutil.rmtree('/storage/emulated/0/Android/data/tv.danmaku.bili/download')
 print('已删除')
 end=time.clock()
-print('总共处理了'+str(sum1)+'个文件'+'\n程序耗时'+('%s'%(end-start))[0:6]+'秒')
+print('总共处理了%s个文件\n程序耗时%.4s秒'%(sum1,end-start))
