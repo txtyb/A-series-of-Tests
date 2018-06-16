@@ -9,9 +9,9 @@ def search(path,word):
         if os.path.isdir(fp)==True:
             search(fp,word)
 
-start=time.clock()            
+start=time.clock()
 search('/storage/emulated/0/Android/data/tv.danmaku.bili/download','entry.json')
-print(paths)            
+print(paths)
 end=time.clock()
 
 print('耗时%ss'%(end-start))
