@@ -22,5 +22,9 @@ else:
     for i in range(0,3):
         curses.flash()
         sleep(0.08)
+    w.attron(curses.color_pair(1))
+    w.addch(10, 10, '#')
+    w.refresh()
+    sleep(2)
 w.nodelay(1)
 
