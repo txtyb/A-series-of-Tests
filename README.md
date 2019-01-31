@@ -1,6 +1,8 @@
 # A-series-of-Tests
 My testing area,everything can be added.
 ---
+* Play gluttonous snake in terminal！
+[![curses_snake.gif](https://i.loli.net/2019/02/01/5c5342c638b8c.gif)](https://i.loli.net/2019/02/01/5c5342c638b8c.gif)
 **ps**：Show some usage of vim by the way.
 
 * Vim with vim-airline(Soda Theme)
