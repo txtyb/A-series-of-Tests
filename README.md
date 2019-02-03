@@ -6,7 +6,7 @@ My testing area,everything can be added.
 ![curses_snake.gif]
 **ps**：Show some usage of vim by the way.
 
-![pic5]
+![Screenshot_20190203-221205_Termux.png]
 * Vim with vim-airline(Soda Theme)
 ![pic1]
 * Split screen to the left and right using`:split`
@@ -22,3 +22,4 @@ My testing area,everything can be added.
 [pic4]:https://i.loli.net/2018/06/16/5b2505b48263e.png
 [curses_snake.gif]:https://i.loli.net/2019/02/01/5c5342c638b8c.gif
 [pic5]:https://i.loli.net/2019/02/02/5c547b6c9054d.png
+[Screenshot_20190203-221205_Termux.png]:https://i.loli.net/2019/02/03/5c56f7000bfb5.png
